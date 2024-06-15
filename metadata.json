@@ -1,0 +1,10 @@
+{
+    "name": "BlingBlingAddons",
+    "description": "routing addon for the BEST mod",
+    "creator": "blingbling, Celeite",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "requires": [
+        "BlingBlingAddons"
+    ]
+}
